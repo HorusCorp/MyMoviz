@@ -1,0 +1,13 @@
+body {
+  padding: 0px!important;
+  margin:0px!important;
+  min-height: 100vh!important;
+  width: 100%!important;
+  display: flex!important;
+  justify-content: center!important;
+  align-items: center!important;
+}
+
+a {
+  color: #00B7FF;
+}
